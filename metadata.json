@@ -1,0 +1,6 @@
+{
+  "name": "Worldview",
+  "description": "Real-time tactical geospatial intelligence tracking global aircraft, satellite overwatch, and maritime radar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
